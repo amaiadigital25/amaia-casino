@@ -1,0 +1,1 @@
+export default function Home(){return <main className="shell"><section className="hero"><div><span className="badge">MODO DEMO</span><h1>Amaia Casino</h1><p>Administración segura de vendedores, jugadores y créditos.</p><a className="button" href="/admin">Entrar al panel</a></div></section></main>}
